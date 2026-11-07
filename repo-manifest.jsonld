@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/ansible.drill/commit/b4f8cb77d8d92b8ebfa5a60acd5be1bd8a9b69f7",
       "git:hexsha": "b4f8cb77d8d92b8ebfa5a60acd5be1bd8a9b69f7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T18:06:59.730710+00:00"
     }
   ]
 }
