@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "ansible.drill",
+  "versions": [
+    {
+      "commit": "b4f8cb77d8d92b8ebfa5a60acd5be1bd8a9b69f7",
+      "tag": "",
+      "parsed_at": "2026-11-07T18:06:59.745666+00:00"
+    }
+  ]
+}
